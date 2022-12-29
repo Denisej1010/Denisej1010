@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development and want to get started in the tech industry!
 - 🌱 I’m currently learning Javascript and Python
 - 📫 Here is how to reach me on [Linkedin](url)
--
+
 
 <!---[portfolio
 ](url)
